@@ -8,7 +8,8 @@
 
 ### Stimulation
 Must play [Stimulation](Stimulation.mp4) to see the working of the project
-View [Snapshot](Arduino and LEDs.png) here
+
+View [Snapshot](Arduino_and_LEDs.png) here
 
 ### Others
 Visit My [TinkerCad](https://www.tinkercad.com/users/jfRtpRtTALf-ravinder-chadha?category=tinkercad&sort=likes&view_mode=default) Profile Here
